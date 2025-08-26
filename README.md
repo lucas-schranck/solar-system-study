@@ -43,7 +43,7 @@ solar-system-simulation/</br>
 ├── simulation/ # Main simulation code (modular OOP structure)</br>
 ├── configs/ # JSON configs for celestial bodies</br>
 ├── resources/ # Books, articles, links</br>
-├── study_plan.md # Full week-by-week plan</br>
+├── study_plan.md # Full step-by-step plan</br>
 └── README.md # You are here</br>
 
 
